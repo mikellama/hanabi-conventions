@@ -20,61 +20,13 @@ This framework is entirely separate from the Hyphen-ated convention framework. T
 
 ## Modulus Cheat Sheet
 
-<table>
-<tr><td>
+| 0 | -18  -9  0  9   18  27
+| 1 | -17  -8  1  10  19  28
+| 2 | -16  -7  2  11  20  29
+| 3 | -15  -6  3  12  21  30
+| 4 | -14  -5  4  13  22  31
+| 5 | -13  -4  5  14  23  32
+| 6 | -12  -3  6  15  24  33
+| 7 | -11  -2  7  16  25  34
+| 8 | -10  -1  8  17  26  35
 
-| operation | result
-| --- | ---
-| -9 mod 9  | 0
-| -8 mod 9  | 1
-| -7 mod 9  | 2
-| -6 mod 9  | 3
-| -5 mod 9  | 4
-| -4 mod 9  | 5
-| -3 mod 9  | 6
-| -2 mod 9  | 7
-| -1 mod 9  | 8
-
-</td><td>
-
-| operation | result
-| --- | ---
-| 0 mod 9   | 0
-| 1 mod 9   | 1
-| 2 mod 9   | 2
-| 3 mod 9   | 3
-| 4 mod 9   | 4
-| 5 mod 9   | 5
-| 6 mod 9   | 6
-| 7 mod 9   | 7
-| 8 mod 9   | 8
-
-</td><td>
-  
-| operation | result
-| --- | ---
-| 9 mod 9   | 0
-| 10 mod 9  | 1
-| 11 mod 9  | 2
-| 12 mod 9  | 3
-| 13 mod 9  | 4
-| 14 mod 9  | 5
-| 15 mod 9  | 6
-| 16 mod 9  | 7
-| 17 mod 9  | 8
-
-</td><td>
-  
-| operation | result
-| --- | ---
-| 18 mod 9  | 0
-| 19 mod 9  | 1
-| 20 mod 9  | 2
-| 21 mod 9  | 3
-| 22 mod 9  | 4
-| 23 mod 9  | 5
-| 24 mod 9  | 6
-| 25 mod 9  | 7
-| 26 mod 9  | 8
-
-</td></tr> </table>
